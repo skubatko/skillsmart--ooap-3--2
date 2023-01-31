@@ -1,0 +1,19 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.flattened-pom.xml
+
+# Gradle
+.gradle
+build/
+*.flattened-pom.xml
+
+# Eclipse
+.settings/
+.project
+.classpath
