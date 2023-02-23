@@ -63,3 +63,22 @@
 не закончена.
 
 `WorldLocation` пока можно исключить, так как он также продолжает иерархию классов.
+
+## Кластеры
+
+### Hero
+
+- MainHero
+- MainHeroBuilder
+
+### World
+
+- World
+- LocationFactory
+
+### Characters
+
+- Enemy
+- EnemyBoss
+- EnemyFactory
+- NPC
